@@ -1,0 +1,7 @@
+.container-fluid{
+    background-color:darkgoldenrod
+}
+.container{
+    background-image: url(hamburguer.jpg);
+    background-size: cover;
+}
